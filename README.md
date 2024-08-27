@@ -2,9 +2,9 @@
 this is sample project for test git/github functioning
 
 Tataproject is devloped by [Lavatech Technology.](https://lavatechnology.com).this project is initiated by department of IT for purpose of testing and education.
-## contributor
+## contributors
 > Vijay
-_vinay 
+_ vinay 
 _vikas
 _vishal
 
