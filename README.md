@@ -1,4 +1,4 @@
-# tataproject
+# Tataproject Automation Testing Using Selenium(Java)
 this is sample project for test git/github functioning
 # Selenium
 
