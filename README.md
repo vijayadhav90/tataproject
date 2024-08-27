@@ -3,10 +3,10 @@ this is sample project for test git/github functioning
 
 Tataproject is devloped by [Lavatech Technology.](https://lavatechnology.com).this project is initiated by department of IT for purpose of testing and education.
 ##contributions
--Vijay
--vinay 
--vikas
--vishal
+_Vijay
+_vinay 
+_vikas
+_vishal
 
 Selenium is an umbrella project encapsulating a variety of tools and
 libraries enabling web browser automation. Selenium specifically
